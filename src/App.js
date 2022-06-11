@@ -7,9 +7,9 @@ import Layout from './layouts';
 function App() {
   return (
       <div className="App">
-        <Layout />
+        {/* <Layout /> */}
         <Router />
-        <BoardInfoBar />
+        {/* <BoardInfoBar /> */}
       </div>
   );
 }
